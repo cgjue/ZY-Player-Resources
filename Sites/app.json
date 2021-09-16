@@ -1,28 +1,5 @@
 [
   {
-    "key": "快播云",
-    "id": 1,
-    "name": "快播云",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": true
-  },
-  {
-    "key": "穿梭资源",
-    "id": 2,
-    "name": "穿梭资源",
-    "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "reverseOrder": true
-  },
-  {
     "key": "红牛资源",
     "id": 3,
     "name": "红牛资源",
